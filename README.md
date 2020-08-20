@@ -1,4 +1,4 @@
-# Udacity_Project4_We_Rate_Dogs
+# Udacity_Project_We_Rate_Dogs
 
 This Project is part of the Udacity Nanodegree course.
 
